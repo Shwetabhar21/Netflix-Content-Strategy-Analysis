@@ -31,3 +31,11 @@ The notebook performs the following steps:
 3.  **Displays Data**:  Displays the first few rows of the data.
 4.  **Cleans Data**: Removes unnecessary columns.
 5.  **Analyzes Data**: Performs a preliminary analysis of the Netflix content.
+
+##   Analysis
+
+The analysis includes:
+
+* Trends in content release dates.
+* The global availability of content.
+* Content performance based on hours viewed.
